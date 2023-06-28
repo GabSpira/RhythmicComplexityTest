@@ -1,9 +1,11 @@
 # webMUSHRA based Rhythmic Complexity Test
 
-This is just a demo repo to show the test to my supervisors
+This is just a demo repo to show the test to my supervisors.
+
 It is based on the webmushra and you can run it as a normal webmushra test using the config myTest.yaml
 
-Create a virtual environment, install php, and execute the command 'php -S localhost:8000' to run the code on your browser
+Create a virtual environment, install php, and execute the command 'php -S localhost:8000' to run the code on your browser. 
+
 On your browser, go to 'http://localhost:8000/?config=myTest.yaml'
 
 
