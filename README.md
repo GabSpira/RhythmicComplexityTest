@@ -1,8 +1,30 @@
-# webMUSHRA
-[![GitHub release](https://img.shields.io/github/release/audiolabs/webMUSHRA.svg)](https://github.com/audiolabs/webMUSHRA/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/audiolabs/webMUSHRA/total.svg)](https://github.com/audiolabs/webMUSHRA/releases/latest)
-[![Build Status](https://travis-ci.org/audiolabs/webMUSHRA.svg?branch=master)](https://travis-ci.org/audiolabs/webMUSHRA)
-[![DOI](https://zenodo.org/badge/81722942.svg)](https://zenodo.org/badge/latestdoi/81722942)
+# webMUSHRA based Rhythmic Complexity Test
+
+This is just a demo repo to show the test to my supervisors
+It is based on the webmushra and you can run it as a normal webmushra test using the config myTest.yaml
+
+Create a virtual environment, install php, and execute the command 'php -S localhost:8000' to run the code on your browser
+On your browser, go to 'http://localhost:8000/?config=myTest.yaml'
+
+
+
+
+Here below there's the webmushra readme
+
+
+
+
+
+--------------------------------
+--------------------------------
+
+
+
+
+
+
+
+
 
 a MUltiple Stimuli with Hidden Reference and Anchor ([MUSHRA](https://en.wikipedia.org/wiki/MUSHRA)) compliant web audio API based experiment software.
 
